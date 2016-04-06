@@ -7,3 +7,5 @@
 **A favorite food:** Steak
 
 **A hobby:** Hiking
+
+**Favorite Color**: Blue
