@@ -9,3 +9,5 @@
 **A hobby:** Hiking
 
 **Favorite Color**: Blue
+
+**City:** Raleigh, NC
